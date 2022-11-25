@@ -1,2 +1,3 @@
 # Data_Science
-Learning Data science 
+practicing data science tasks on models
+
